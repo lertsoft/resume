@@ -1,0 +1,42 @@
+resume
+=========
+
+Ronny Coste
+Software Engineer && Creative Developer
+Full-Stack / React / NodeJS
+
+Contact
+-------
+
+* hello at ronnycoste dot com
+* ronnycoste at pm dot me
+* costeronny on Twitter
+* costeronny on Instagram
+
+Projects
+--------
+
+* www.gallery.ronnycoste.com
+* www.lifecycle.vercel.app
+* www.creatorsnyc.vercel.app 
+and of course...
+* www.resume.ronnycoste.com
+
+Experience
+--------
+
+* Cuny Tech Prep (2020 to 2021)
+Software Developer Fellow
+* Techo Dominicana (2016 to 2017)
+Social Development Intern
+
+Open Source
+-----------
+
+* NextJS
+* Umbrel
+
+Photos
+------
+
+* [Me, Myself, and I](/img/myself.jpg)
