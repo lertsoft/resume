@@ -7,7 +7,7 @@ Building
 --------
 
 ```bash
-git clone "This Repo link"
+git clone git@github.com:lertsoft/resume.git
 cd resume
 npm install
 npm run dev
