@@ -16,7 +16,7 @@
  */
 
 * {
-  -webkit-transition: all 1s;
+  -webkit-transition: all 2s; /* Speed of the Transitions */
 }
 
 /**
@@ -27,7 +27,7 @@
  */
 
 html {
-  background: rgb(247, 191, 190);
+  background: rgb(247, 191, 190); /* Background color */
 }
 
 /***
@@ -47,6 +47,7 @@ pre, a {
  */
 
 pre:not(:empty) {
+  /* Box with the code */
   overflow: auto;
   background: rgb(48, 48, 48);
   border: 1px solid #ccc;
@@ -59,7 +60,7 @@ pre:not(:empty) {
   white-space: pre-wrap;
   outline: 0;
   margin: 1vh 0.5vw;
-}
+} 
 
 /**
  * Okay. Now We're going to start filling up the screen.
@@ -79,7 +80,7 @@ pre:not(:empty) {
  */
 
 .comment       { color: #ABDAD9; font-style: italic; } 
-.selector      { color: #E69F0F; }
+.selector      { color: #E69F0F; } 
 .selector .key { color: #64D5EA; }
 .key           { color: #64D5EA; }
 .value         { color: #BE84F2; }
@@ -91,12 +92,12 @@ pre:not(:empty) {
  */
 
 body {
-  -webkit-perspective: 1000px;
+  -webkit-perspective: 1500px; /* Inwards perspective */
 }
 
 #style-text {
   -webkit-transform: translateX(98.5%) rotateY(-10deg);
-  -webkit-transform-origin: right;
+  -webkit-transform-origin: right; /* Resume Box to the right */
   max-height: 93.1vh;
 }
 
@@ -106,6 +107,6 @@ body {
  */
 
 pre:not(#style-text) {
-  -webkit-transform: rotateY(10deg);
-  -webkit-transform-origin: left;
+  -webkit-transform: rotateY(10deg); /* Degree of the boxes. Changes this would break the consitency of the three boxes. */
+  -webkit-transform-origin: left; /* Position the code box on the left */
 }

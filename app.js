@@ -12,6 +12,7 @@ import {default as writeChar, writeSimpleChar, handleChar} from './lib/writeChar
 import getPrefix from './lib/getPrefix';
 
 // Vars that will help us get things done
+// Speed up the Dev process
 const isDev = window.location.hostname === 'localhost';
 const speed = isDev ? 0 : 16;
 let style, styleEl, workEl, pgpEl, skipAnimationEl, pauseEl;

@@ -4,11 +4,11 @@
  */
 
 #work-text.flipped {
-  -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg);
+  -webkit-transform: rotateX(0deg) rotateY(190deg) rotateZ(180deg); /* If you scroll up or down you can see the plain version. Change the rotation animation. */
 }
 
 #work-text .md {
-  -webkit-transform: rotateY(190deg) rotateZ(180deg);
+  -webkit-transform: rotateY(190deg) rotateZ(180deg);  /* If you scroll up or down you can see the markdown version. Change the rotation animation. */
   margin-top: 800px;
 }
 

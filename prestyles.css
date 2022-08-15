@@ -19,6 +19,7 @@ pre {
 }
 
 #header {
+  /* Header or footer or navigation bar... All in one. */
   position: absolute;
   bottom: 0;
   height: 20px;

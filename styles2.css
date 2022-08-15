@@ -4,10 +4,11 @@
  */
 
 .md {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif; /*  Markdown Fonts */
 }
 
 .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+  /* Markdown styles. Change as you like. */
   display: inline-block;
   color: #ddd;
   border-bottom: 1px solid #ccc;
