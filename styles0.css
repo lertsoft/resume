@@ -16,7 +16,7 @@
  */
 
 * {
-  -webkit-transition: all 1s;
+  -webkit-transition: all 2s;
 }
 
 /**
@@ -91,7 +91,7 @@ pre:not(:empty) {
  */
 
 body {
-  -webkit-perspective: 1000px;
+  -webkit-perspective: 1500px;
 }
 
 #style-text {
