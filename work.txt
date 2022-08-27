@@ -3,7 +3,7 @@ resume
 
 Ronny Coste
 Software Engineer && Creative Developer
-Full-Stack / React / NodeJS
+Full-Stack | React | NodeJS | Three | Python
 
 Contact
 -------
@@ -18,7 +18,7 @@ Projects
 
 * www.gallery.ronnycoste.com
 * www.lifecycle.vercel.app
-* www.creatorsnyc.vercel.app 
+* www.vanilla3d.netlify.app
 and of course...
 * www.resume.ronnycoste.com
 
