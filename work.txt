@@ -3,7 +3,7 @@ resume
 
 Ronny Coste
 Software Engineer && Creative Developer
-Full-Stack / React / NodeJS
+Full-Stack | React | NodeJS | Three | Python
 
 Contact
 -------
@@ -18,17 +18,23 @@ Projects
 
 * www.gallery.ronnycoste.com
 * www.lifecycle.vercel.app
-* www.creatorsnyc.vercel.app 
+* www.vanilla3d.netlify.app
 and of course...
 * www.resume.ronnycoste.com
 
 Experience
 --------
 
-* Cuny Tech Prep (2020 to 2021)
+* Cuny Tech Prep (Jun 2020 to May 2021)
 Software Developer Fellow
-* Techo Dominicana (2016 to 2017)
+* New York City Urban Debate League - NYCUDL (Dec 2017 to May 2019)
+Coordinator of on-site debates & Educator to debaters.
+* Tesercom Dominicana (Jun 2017 to Aug 2017)
+IT Intern
+* Techo Dominicana (Sep 2016 to Sep 2017)
 Social Development Intern
+* Bonanza Dominicana (Jun 2015 to Aug 2015)
+IT Intern
 
 Open Source
 -----------
