@@ -20,7 +20,7 @@ Projects
 * www.cinema.ronnycoste.com
 * www.gallery.ronnycoste.com
 * www.lifecycle.vercel.app
-* www.vanilla3d.netlify.app
+* vanilla3d.netlify.app
 and of course...
 * www.resume.ronnycoste.com
 
