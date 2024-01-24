@@ -1,7 +1,7 @@
 {
   "name": "resume",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Ronny Coste's resume",
   "main": "app.js",
   "scripts": {
     "build": "webpack",
