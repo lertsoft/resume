@@ -3,7 +3,7 @@ resume
 
 Ronny Coste
 Software Engineer && Creative Developer
-Full-Stack | React | NodeJS | Three | Python
+Full-Stack | React | NodeJS | Typescript | Python
 
 Contact
 -------
@@ -16,6 +16,8 @@ Contact
 Projects
 --------
 
+* www.somethingto.do
+* www.cinema.ronnycoste.com
 * www.gallery.ronnycoste.com
 * www.lifecycle.vercel.app
 * www.vanilla3d.netlify.app
@@ -23,19 +25,42 @@ and of course...
 * www.resume.ronnycoste.com
 
 Experience
---------
-* Belle Image Productions (08/2021 - Present)
-Cinematographer and Camera Assistant
+----------
+* Creative Consultant (08/2021 - Present)
+Cinematographer, Photographer, Camera Assistant, and Creative Director
 * Cuny Tech Prep (06/2020 - 05/2021)
 Software Developer Fellow
+* New York City Urban Debate League [NYCUDL] (11/2017 - 02/2020)
+Instructor and Event Organizer
 * Techo Dominicana (09/2016 - 09/2017)
-Social Development Intern
+Data Analyst Intern
+* Tesercom Dominicana (06/2017 - 09/2017)
+IT Support Intern
 
-Open Source
------------
+Open Source Contributions
+--------------------------
 
 * NextJS
 * Umbrel
+* GPD WIN 4
+
+Asocciations / Clubs
+---------------------
+
+* IEEE
+* Leica Historical Society
+
+Hobbies
+-------
+
+* Photography
+* Coding
+* Hiking
+* Football / Soccer
+* HAM Radio
+* Embedded Systems tinkerer
+* Reading
+* Writing
 
 Photos
 ------
