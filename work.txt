@@ -12,6 +12,7 @@ Contact
 * ronnycoste at pm dot me
 * costeronny on Twitter
 * costeronny on Instagram
+* KE2CYQ Call Sign
 
 Projects
 --------
@@ -43,6 +44,7 @@ Open Source Contributions
 * NextJS
 * Umbrel
 * GPD WIN 4
+* NodeJS
 
 Association / Clubs
 ---------------------
@@ -58,7 +60,7 @@ Hobbies
 * Coding
 * Hiking
 * Football / Soccer
-* HAM Radio
+* HAM Radio; KE2CYQ
 * Embedded Systems tinkerer
 * Reading
 * Writing
