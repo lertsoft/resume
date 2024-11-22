@@ -3,13 +3,14 @@ resume
 
 Ronny Coste
 Software Engineer && Creative Developer
-Full-Stack | React | NodeJS | Typescript | Python
+React | NodeJS | Typescript | Python | Raspbery Pi's
 
 Contact
 -------
 
 * hello at ronnycoste dot com
-* ronnycoste at pm dot me
+* find at somethingto dot do
+* KE2CYQ at arrl dot net
 * costeronny on Twitter
 * costeronny on Instagram
 * KE2CYQ Call Sign
@@ -18,15 +19,27 @@ Projects
 --------
 
 * www.somethingto.do
+Over 1000 places that I want to go and have been with a small review.
+* www.temporarilyclosed.nyc
+First photobook/zine
 * www.cinema.ronnycoste.com
+Cinema portfolio
 * www.gallery.ronnycoste.com
+Photography portfolio
+* www.ronnycoste.com/scrapbook
+Scrapbook covering over 10 years of my life.
+* www.ronnycoste.com/second-life
+Finding use cases for my forgotten Electronics
 * www.lifecycle.vercel.app
 * www.vanilla3d.netlify.app
+Three JS and vector graphics project
 and of course...
 * www.resume.ronnycoste.com
 
 Experience
 ----------
+* Datadog (05/2024 - Present)
+Technical Solutions Engineer
 * Creative Consultant (08/2021 - Present)
 Cinematographer, Photographer, Camera Assistant, and Creative Director
 * Cuny Tech Prep (06/2020 - 05/2021)

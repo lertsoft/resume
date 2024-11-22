@@ -9,7 +9,7 @@
     "dev": "webpack serve --open",
     "watch": "webpack --progress --watch"
   },
-  "author": "Ronny Coste <ronnycoste@pm.me> (https://ronnycoste.com/)",
+  "author": "Ronny Coste <hello@ronnycoste.com> (https://ronnycoste.com/)",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.0",
